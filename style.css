@@ -17,19 +17,30 @@ body{
     padding-left: 2%;
 }
 .first-half img{
-    width: 100%;
+    width: 95%;
 }
 #hello{
    margin-top: 10%;
    margin-left: 135px;
 }
+#ok{
+    margin-top:35%;
+    margin-bottom: 5%;
+    font-size: 35px;
+}
 .first-half p{
     color: gray;
     padding-bottom: 20px;
 }
+section{
+    height:800px;
+}
 .first-section{
     padding-top:150px;
     padding-right: 100px;
+    margin-right: 6px;
+    background-image: url("personal-website/header-bg1.png");
+    background-repeat: no-repeat;
 }
 .link{
     text-decoration: none;
@@ -38,4 +49,28 @@ body{
     padding: 10px 40px;
     border-radius: 7px;
     font-weight: 700px;
+}
+#ok1{
+    text-align: initial;
+    margin-right:15%
+}
+.h{
+    color:orange;
+}
+.he{
+    color: lightseagreen;
+}
+.jk{
+    color: rgb(238, 14, 100);
+}
+.second-section{
+    background-image: url("personal-website/biography1-bg.png");
+    background-repeat: no-repeat;
+}
+.second-section img{
+    width: 85%;
+}
+.second-half{
+    margin-top: 75px;
+    margin-left: 125px;
 }
