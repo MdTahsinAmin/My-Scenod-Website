@@ -3,7 +3,7 @@ body{
 }
 .Header{
      color: rgb(238, 14, 100);
-     font-size: 50px;
+     font-size: 55px;
      margin-top:0px;
      margin-left: 5px;
 }.first-half h2{
@@ -155,4 +155,10 @@ font-size: 20px;
 }
 #myspan2{
     text-align: center;
+}
+#copyright{
+    padding-top :100px;
+    text-align:center;
+    color: grey;
+    font-size: 15px;
 }
